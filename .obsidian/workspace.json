@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "356e1c8d7272dcba",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ce0595b6ff433fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18493cf4012ecae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/Vue/vue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae78606acd7d6305",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e55e6831d93309d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dedef0379ae000e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4791c3152ea86f8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84a487bc565e1d0a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ded2c2b33a72fba0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b522c103c85d245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dd6f24931fa3f7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端/Vue/vue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdc277265a33b4e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端/Vue/vue.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "931bdf181303a895",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9a2e7829354bff4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前端/Vue/vue.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "dedef0379ae000e8",
+  "lastOpenFiles": [
+    "README.md",
+    "Unity",
+    "算法/Carl/背包九讲.pdf",
+    "算法/[NOIP2016 提高组] 组合数问题.md",
+    "算法/搜索与图论/图的存储.md",
+    "算法/搜索与图论",
+    "算法/数据结构和STL使用/string容器.md",
+    "算法/数据结构和STL使用",
+    "算法/前缀和和差分/差分.md",
+    "算法/前缀和和差分/子矩阵的和.md",
+    "算法/前缀和和差分/前缀和.md",
+    "算法/前缀和和差分",
+    "算法/高精度/高精度运算.md",
+    "算法/高精度",
+    "算法/二分/数的三次方根.md",
+    "算法/二分/数的范围（二分模板）.md",
+    "算法/二分",
+    "算法/递归枚举/递归实现枚举.md",
+    "算法/递归枚举",
+    "算法/并查集/并查集.md",
+    "算法/并查集/P1892 [BOI2003]团伙.md",
+    "算法/并查集",
+    "前端/Vue/vue.md",
+    "算法/Carl",
+    "408/操作系统/第二章 进程的描述与控制.md",
+    "408/操作系统/索引（index）.md",
+    "408/操作系统/第一章 操作系统导论.md",
+    "408/操作系统/第三章 处理机调度与死锁.md",
+    "408/操作系统/第六章 输入输出系统.md",
+    "Python/Django/Linux、Django、docker.md",
+    "Java/SSM.md",
+    "Java/mysql.md",
+    "Java/JavaWeb.md",
+    "Java/Java.md",
+    "前端/前端学习路线.md",
+    "Java/集合.md",
+    "未命名.canvas"
+  ]
+}
